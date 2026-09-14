@@ -1,0 +1,22 @@
+# Craft an Advanced Product Strategy, Module 1 Lab
+
+## Write your one-page strategy
+- **Winning aspiration: define winning in the customer's terms, not internal metrics. What does success look like for the specific person you serve?:** Make Meridian the tool field teams choose first—not because they have to, but because it is faster and easier than using their phone and group texts. Success means a foreman can quickly capture what is happening on the job site, communicate it to the right people, and know it is documented without slowing down the work.
+- **Where to play: segment, geography, and use case, explicitly. Which customers, markets, and surfaces will you focus on?:** Enterprise construction companies with large, distributed field teams, targeting field superintendents and foremen on active commercial construction projects. Focus on the mobile experience at the job site, particularly photo documentation, issue reporting, task updates, and team communication.
+- **How to win: your differentiator. What can you do that your specific competitors cannot easily replicate?:** Build a field-first experience around speed and simplicity. Meridian will turn the existing phone camera + group text workflow into a single, connected workflow: capture, add context, assign, communicate, track. Unlike standalone communication tools, every field interaction automatically becomes part of the project record and is visible to the broader enterprise.
+- **Capabilities required: what you must be world-class at. What will you build, buy, or partner for?:** Become the expert at mobile field workflows and connecting field data to the enterprise.
+- **Management systems: the metrics and rituals that keep your choices alive quarter to quarter.:** Measure whether field teams are actually adopting and using it. Review metrics monthly and conduct quarterly field user surveys and job site observations.
+
+## Name your one hard no
+- **Your one hard no:** We will not try to bring the full enterprise Meridian experience to the job site. We will deliberately avoid adding complex enterprise workflows, dashboards, and administrative functionality to the field experience. Instead, we will focus on making a small number of high-frequency field tasks dramatically faster and easier. The trade-off protects the simplicity that makes Meridian competitive with a phone camera and group text while still capturing the value of field data for the enterprise.
+
+## Write your three OKRs
+- **Objective:** Make Meridian the first-choice tool for field teams by making everyday job-site workflows faster and easier than camera + group text.
+- **KR1:** Adoption: Increase weekly active field users on active enterprise projects from 20% to 60% within two quarters.
+- **KR2:** Engagement: Increase the percentage of field teams that complete a core field workflow (capture, communicate, or assign) in Meridian at least weekly from 15% to 50% within two quarters.
+- **KR3:** Customer Value: Reduce the median time for a foreman to document and communicate a job-site issue from 5 minutes to under 2 minutes within two quarters.
+
+## AI pressure-test
+- **Which challenge from the AI is most valid, and why?:** The biggest weakness is that we are assuming speed and simplicity are enough to change field behavior. Foremen may prefer their current camera + group-text workflow not only because it is fast, but because it is familiar and requires no training. We need to validate that Meridian can be faster and provide enough immediate value to overcome the switching cost.
+- **What would you change based on the pushback, and what would you defend?:** I would change the strategy by making field adoption dependent on a clear "better than current workflow" value proposition and validating it through job-site testing before expanding functionality. I would also refine KR3 to measure whether field users can complete the workflow faster than their current process. I would defend the field-first focus and the hard no on bringing the full enterprise experience to the job site, because adding more complexity would undermine the very simplicity we need to win field users. The real competitor is the existing habit of taking a picture and sending a text.
+
