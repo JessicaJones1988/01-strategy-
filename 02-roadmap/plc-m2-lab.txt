@@ -1,0 +1,22 @@
+# Prioritization & Roadmapping, Module 2 Lab
+
+## Prioritize your Rocks and your Hard Nos
+- **Rock #1:** DO NOW: Build a mobile-first foreman experience by creating a mobile app that is separate from a desktop experience. Ensure the workflow is fast and simple. Creating an experience that the foreman want to reach for, supports a "winning" aspiration. Reduce the time to document and communicate a job-site issue.
+- **Rock #2:** DO NOW: Simplify field workflows by streamlining foreman's daily logs and enabling push notifications to communicate high priority items. This supports a How to Win strategy by reducing friction that prevents field users from becoming regular Meridian users. A key result to aim for would be to reduce the average time for a foreman to document and communicate a job-site issue from 5 minutes to under 2 minutes within two quarters.
+- **Rock #3:** DO NOW:  Build an offline-first mobile experience for job sites with poor connectivity. If Meridian only works when a field user has reliable internet connection, then it cannot consistently replace the camera and group text. This approach supports the How to Win strategy by making Meridian more dependable and will increase adoption if foreman and field workers have the ability to utilize without the friction of internet access. A key result to aim for would be to increase the percentage of active field users who complete at least one Meridian field workflow in low- or no-connectivity environments from 0% to 40% within two quarters.
+- **❌ Hard No #1:** Build reporting dashboard with custom KPI's. This addresses an enterprise reporting need but does not directly improve the field experience or help Meridian replace the camera-and-group-text workflow.
+- **❌ Hard No #2:** Build subcontractor portal with document sharing. This expands the platform to another user group before Meridian has solved adoption among its primary field users.
+- **❌ Hard No #3:** Refresh desktop user interface. While the outdated interface may affect prospects, a broad web refresh would divert resources from the mobile field experience that is central to this quarter’s strategy.
+
+## Show and swap
+- **Do the Rock selections feel traceable to a clear strategy, or do they read like a feature list?:** _(not filled in)_
+- **Pick one Hard No and make the case for why it should actually be a Rock.:** _(not filled in)_
+
+## Review and refine
+- **Does every Now item read as a strategic bet, or does it sound like a feature description?:** Yes. Each item describes the outcome we are betting on—faster issue communication, simpler field adoption, and reliable use in poor connectivity—rather than naming a specific feature or delivery milestone.
+- **Can you trace every Now item back to one of your OKRs?:** Yes. Now #1 → KR3 (Customer Value); Now #2 → KR2 (Engagement); Now #3 → KR1 (Adoption).
+- **If someone who had never seen your strategy read the Now column, would they know what problem you are solving this quarter?:** Yes. The three bets communicate that Meridian is focused on making job-site work faster, simpler, and more reliable so field teams choose Meridian instead of relying on camera + group text.
+
+## Save your roadmap
+- **Where did you save your roadmap? (link or file):** _(not filled in)_
+
